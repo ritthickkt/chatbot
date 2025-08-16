@@ -2,7 +2,7 @@
 
 Link to chatbot: https://ritthickkt.github.io/chatbot/
 
-Currently fixing bugs. AI BOT DOES NOT WORK AT THE MOMENT
+Currently fixing bugs.
 
 Using Google Gemini's API, Framer Motion, Vite and React
 
